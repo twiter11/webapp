@@ -2,3 +2,5 @@
 peter
 obi
 simon
+james
+paul
